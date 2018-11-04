@@ -5,6 +5,7 @@
                  문자열 추가
 
     2018-11-05 : C++입문 추가
+                 C++클래스와 객체 추가
 
 
 ### [01.문자열](https://github.com/NamSSu/study_cpp_2018/blob/master/001_string.md)
